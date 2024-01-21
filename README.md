@@ -1,6 +1,6 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analytics Portfolio
 
-### Welcome to my data analyst portfolio! 🚀
+### Welcome to my data Analytics portfolio! 🚀
 
 ## 🔍 Skills:
 
